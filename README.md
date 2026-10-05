@@ -58,11 +58,11 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏥 **[CMO VistaMD — Hospital Management](https://github.com/Tchablenan/CMO)** | Digitises the patient journey: clinical records, appointment scheduling, medical exam tracking, with security best practices for health data | Laravel · React |
-| 📊 **Commercial Management & Decision Support (ERP/POS)** 🔒 | Invoicing, payments and real-time stock; KPI dashboard (gross margin, sales forecasts, stock-out alerts); RBAC; automated PDF/Excel financial reports | Laravel · React · Tailwind · MySQL |
-| ✈️ **Aljannah — Private Jet Booking** 🔒 | Fleet showcase, booking flow, client & admin dashboards, FR/EN, automated CI/CD deployment | React · Vite · Tailwind · GitHub Actions |
-| 🚗 **Driving Code Certification Platform** 🔒 | Online training and certification platform for the driving-code exam (ITPLEX-Consult) | React · Laravel |
-| 🎫 **[Ticketing App](https://github.com/Tchablenan/ticketing-app)** | Internal request ticketing with real-time notifications — **cut processing time by 50%** (Cognitive Factory) | React · Firebase |
+|  **[CMO VistaMD — Hospital Management](https://github.com/Tchablenan/CMO)** | Digitises the patient journey: clinical records, appointment scheduling, medical exam tracking, with security best practices for health data | Laravel · React |
+|  **Commercial Management & Decision Support (ERP/POS)** 🔒 | Invoicing, payments and real-time stock; KPI dashboard (gross margin, sales forecasts, stock-out alerts); RBAC; automated PDF/Excel financial reports | Laravel · React · Tailwind · MySQL |
+|  **Aljannah — Private Jet Booking** 🔒 | Fleet showcase, booking flow, client & admin dashboards, FR/EN, automated CI/CD deployment | React · Vite · Tailwind · GitHub Actions |
+|  **Driving Code Certification Platform** 🔒 | Online training and certification platform for the driving-code exam (ITPLEX-Consult) | React · Laravel |
+|  **[Ticketing App](https://github.com/Tchablenan/ticketing-app)** | Internal request ticketing with real-time notifications — **cut processing time by 50%** (Cognitive Factory) | React · Firebase |
 
 > 🔒 Client projects are private — live demos available on request.
 
