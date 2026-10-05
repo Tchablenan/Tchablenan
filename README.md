@@ -14,10 +14,10 @@
 ### 🚀 About me
 
 - 💼 **3+ years** building and deploying scalable web & mobile applications for clients in **Togo, Côte d'Ivoire, Ghana and the USA**.
-- 🏥 Currently building a **hospital management system** for CMO VistaMD (Abidjan) and React/Laravel apps remotely for **Medlitebill (New York)**.
-- 🔐 Focused on secure architecture: role-based access control, data confidentiality, Clean Architecture.
+-  Currently building a **hospital management system** for CMO VistaMD (Abidjan) and React/Laravel apps remotely for **Medlitebill (New York)**.
+-  Focused on secure architecture: role-based access control, data confidentiality, Clean Architecture.
 - 🌍 Based in **Lomé, Togo** · works remotely across time zones · 🇫🇷 French (C1) · 🇬🇧 English (B2).
-- 🔄 Agile / Scrum · 🎓 B.Sc. (Licence Pro) in Software Engineering — IAI Togo · Cisco CCNAv7.
+-  Agile / Scrum · 🎓 B.Sc. (Licence Pro) in Software Engineering — IAI Togo · Cisco CCNAv7.
 
 ---
 
